@@ -59,13 +59,6 @@ Busco trabajar en grandes empresas donde pueda aportar más que trabajo diario, 
 
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
 
-## 📈 Estadísticas de GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcestruch&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcestruch&layout=compact&theme=radical&hide_border=true" />
-</div>
-
 ## 🌱 Actualmente estoy...
 
 - 🔭 **Profundizando** en desarrollo Backend con Node.js y Laravel
