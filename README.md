@@ -9,8 +9,6 @@ Busco trabajar en grandes empresas donde pueda aportar más que trabajo diario, 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -21,11 +19,7 @@ Busco trabajar en grandes empresas donde pueda aportar más que trabajo diario, 
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
 **🔜 Frontend:**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
@@ -61,7 +55,6 @@ Busco trabajar en grandes empresas donde pueda aportar más que trabajo diario, 
 
 ## 🌱 Actualmente estoy...
 
-- 🔭 **Profundizando** en desarrollo Backend con Node.js y Laravel
 - 🌱 **Aprendiendo** mejores prácticas de arquitectura de software
 - 👯 **Buscando** oportunidades para colaborar en proyectos interesantes
 - 💡 **Interesado** en contribuir con ideas innovadoras en equipos de trabajo
